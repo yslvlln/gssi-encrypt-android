@@ -1,0 +1,3 @@
+rootProject.name='AndroidEncryptionLib'
+include ':app'
+include ':encryptionlib'
